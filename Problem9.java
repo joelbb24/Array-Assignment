@@ -5,7 +5,7 @@
 import java.util.*;
 import java.lang.*;
 
-public class Ninth 
+public class Problem9 
 {
     public static void main(String[] args) 
     {

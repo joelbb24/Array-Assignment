@@ -1,7 +1,7 @@
 //Find largest and smallest elements of an array.
 
 
-public class Fifth 
+public class Problem5
 {
     public static void main(String[] args)
     {

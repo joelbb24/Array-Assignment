@@ -3,7 +3,7 @@ read it from front or back.*/
 
 import java.util.*;
 
-public class Sixth 
+public class Problem6 
 {
     public static void main(String[] args) 
     {
